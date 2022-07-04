@@ -1,0 +1,186 @@
+body {
+  font-family: 'Ubuntu', sans-serif;
+  text-align: center;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Montserrat', sans-serif;
+}
+
+p {
+  color: #8f8f8f;
+}
+
+/*Headings*/
+.title-heading {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 3rem;
+  line-height: 1.5;
+  color: #FFFFFF;
+  text-align: left;
+}
+
+.pricing-heading, .testimonial-heading {
+  font-size: 3rem;
+  line-height: 1.5;
+}
+
+.features-heading {
+  font-size: 1.5rem;
+  padding-top: 10%;
+}
+
+.cta-h3 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 3.5rem;
+  padding: 0;
+  line-height: 1.5;
+  color: #FFFFFF;
+}
+
+/* Containers */
+.container-fluid {
+  padding: 7% 15%;
+}
+
+/*Section*/
+.colored-section {
+  background-color: #FF4C68;
+}
+
+.white-section {
+  background-color: #FFFFFF;
+}
+
+/* Titles */
+#title .container-fluid {
+  padding: 3% 15% 7%;
+}
+
+.title-column {
+  text-align: left;
+}
+
+.container-fluid {
+  padding: 3% 15% 5% 15%;
+}
+
+/*NavBar*/
+.navbar {
+  padding: 0 0 4.5rem 0;
+}
+
+.navbar-brand {
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 2rem;
+}
+
+.nav-item {
+  padding: 0 20px;
+}
+
+.nav-link {
+  font-size: 1.2rem;
+  font-family: "Montserrat-light";
+}
+
+/*Buttons*/
+.download-button {
+  margin: 5% 3% 5% 0;
+}
+
+.btn-outline-light {
+  border-width: 1px;
+}
+
+/*Title-Image*/
+.iphone6 {
+  width: 50%;
+  transform: rotate(25deg);
+  position: absolute;
+  right: 30%;
+}
+
+@media (max-width:1028px) {
+  .iphone6 {
+    position: static;
+    transform: rotate(0);
+  }
+
+  #title {
+    text-align: center;
+  }
+}
+
+/*Features*/
+#features {
+  font-family: Montserrat-bold;
+  position: relative;
+}
+
+.feature-icon {
+  color: #ef8172;
+}
+
+.feature-icon:hover {
+  color: #ff4c68;
+}
+
+.feature-box {
+  padding: 4%;
+}
+
+/*testimonial*/
+.colored-section#testimonials {
+  background-color: #ef8172;
+  color: #fff;
+}
+
+.testimonials-image {
+  width: 10%;
+  border-radius: 100%;
+  margin: 20px;
+}
+
+/*Press*/
+#press {
+  background-color: #ef8172;
+  padding-bottom: 3%;
+}
+
+.press-logos {
+  width: 15%;
+  margin: 20px 20px 50px 20px;
+}
+
+/*pricing*/
+.pricing-card {
+  padding-top: 5%;
+}
+
+/*cta*/
+#cta .container-fluid {
+  padding: 7% 15% 5% 15%;
+}
+
+.cta-download-button {
+  margin: 3% 3% 3% 0;
+}
+
+/*footer*/
+#footer .container-fluid {
+  padding: 7% 15% 7% 15%;
+}
+
+.footer-id-link {
+  padding-top: 20px;
+}
+
+.tab {
+  margin: 0 2% 0 0;
+}
+
+.footer-image {
+  color: #000;
+  
+}
