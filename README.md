@@ -1,1 +1,2 @@
-This repository contains my first website developed using just basic HTML and CSS.
+The repository contains my journey in Web Development.
+
