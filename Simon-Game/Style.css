@@ -1,0 +1,99 @@
+/* HomePage Styles */
+body{
+    background-color: #011F3F;
+    text-align: center;
+}
+
+h1{
+    font-family: 'Press Start 2P', cursive;
+    font-size: 3rem;
+    margin: 5%;
+    color: #FEF2BF;
+}
+
+.Instructions{
+    text-align: left;
+    margin: 0px 14% 0px 13.5%;
+    font-family: 'Spacec-Grotesk', cursive;
+    color: #FEF2BF;
+    line-height: 2;
+    border: 5px solid #fef28f;
+}
+
+.Instructions h2{
+    margin-left: 38px;
+}
+
+.Instructions p {
+    padding-left:10px;
+}
+
+.start{
+    margin-top:5%;
+}
+
+.start a {
+    background-color: #dfd9ea;
+    width: 150px;
+    font-family: cursive;
+    font-size: 1.2rem;
+    padding: 10px 30px;
+}
+
+.start>a:hover{
+    background-color: aquamarine;
+}
+
+.start>a{
+    width: 100%;
+    text-decoration: none;
+}
+
+/* Index Page Styles */
+#BackButton{
+    width: 5%;
+    filter: opacity(0.4) drop-shadow(1px 1px #FEF2BF);
+}
+
+.container {
+    display: block;
+    width: 50%;
+    margin: auto;
+  
+  }
+  
+  .btn {
+    margin: 25px;
+    display: inline-block;
+    height: 200px;
+    width: 200px;
+    border: 10px solid black;
+    border-radius: 20%;
+  }
+  
+  .game-over {
+    background-color: red;
+    opacity: 0.8;
+  }
+  
+  .red {
+    background-color: red;
+  }
+  
+  .green {
+    background-color: green;
+  }
+  
+  .blue {
+    background-color: blue;
+  }
+  
+  .yellow {
+    background-color: yellow;
+  }
+  
+  .pressed {
+    box-shadow: 0 0 20px white;
+    background-color: grey;
+  }
+  
