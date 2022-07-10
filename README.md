@@ -2,7 +2,7 @@
 
 ## Find match for your most loyal friend here 	:wink:
 
-* [TinDog Site](https://tindogbydv.netlify.app/)
+* [TinDog Site 	:dog:](https://tindogbydv.netlify.app/)
 
 
 ## Let the drum roll begin.
