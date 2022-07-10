@@ -6,7 +6,7 @@
 
 ## Some fun with Simon
 
-* [Play Simon Game](https://simongamebydv.netlify.app/)
+* [Test your Memory with the Simon Game](https://simongamebydv.netlify.app/)
 
 ## Roll the dice and find out....
 
