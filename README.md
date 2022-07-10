@@ -1,6 +1,6 @@
 # The repository contains my journey in Web Development.
 
-## TinDog site
+## Find match for your most loyal friend here 	:wink:
 
 * [TinDog Site](https://tindogbydv.netlify.app/)
 
