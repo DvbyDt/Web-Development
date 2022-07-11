@@ -17,3 +17,6 @@
 
 * [Play Dice Game](https://dicegamebydv.netlify.app/)
 
+## To know about UNIX Commands , Hyper Terminal and CLI have a look here:
+
+* The Command Line (https://github.com/DvbyDt/Web-Development/blob/main/Hyper.md)
