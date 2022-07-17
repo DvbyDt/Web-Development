@@ -13,4 +13,12 @@
     <br/>
     An, example of it is here:  <br/>
     <img src="https://user-images.githubusercontent.com/68496657/179347471-2c30a5ac-41d1-42cc-87ac-9e599588277d.png" alt="API ednpoint,Path,Parameters" />
+  <li> <strong>Authentication :</strong> Everytime you make a request through the API the Data provider should be able to identify who you are and how many requests you are making and charge you accordingly for using there data. If you want to see a pricing model of a data provider have a look at OpenWeatherMap API (https://openweathermap.org/price). You can use Postman to see the actual response for your request.<br /> <br />
+    POSTMAN: It is a tool which helps us to easily test,debug and explore our APIs. Here in Postman the data comes in as a JSON format. <br/>
+    <li><strong>JSON : </strong> JavaScript Object Notations. It is similar to JavaScript objects. It is widely used because it is easily collapsible and is light weight. It's like a lightweight program for storing and transporting data.
+      
+    
+    
+      
+    
 </ul>
