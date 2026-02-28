@@ -3,11 +3,14 @@
 ## Find match for your most loyal friend here 	:wink:
 
 * [TinDog Site 	:dog:](https://tindogbydv.netlify.app/)
-
+  
+* https://amazing-flan-3581d2.netlify.app/
 
 ## Let the drum roll begin.
 
 * [Play Drum Kit](https://drumkitbydv.netlify.app/)
+* https://beautiful-kringle-a6ba87.netlify.app/
+* https://willowy-praline-02779a.netlify.app/
 
 ## Test your Memory with the Simon Game
  
